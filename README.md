@@ -1,14 +1,14 @@
 # spring-boot-greendogdelivery-casadocodigo
-Aplicação web que oferece serviços ReST com Spring Boot
+Aplicação web que oferece serviços REST com Spring Boot
 
-Tecnologias usadas:
+Tecnologias utilizadas:
 
-- Spring MVC para os serviços ReST;
+- Spring MVC para os serviços REST;
 - Spring MVC para converter os dados em JSON ;
 - Spring Data para acessar ao banco de dados;
 - Spring Data para carga inicial dos dados para o banco de dados;
 - JSP com Bootstrap para layout;
-- JSP com JQuery para chamar os serviços ReST;
+- JSP com JQuery para chamar os serviços REST;
 - Servlet Contêiner para rodar a aplicação.
 
 Para subir o projeto
