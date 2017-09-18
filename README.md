@@ -18,4 +18,4 @@ Baixe os fontes do projeto e execute:
 
 mvn spring-boot:run
 
-Em seguida acesse em http://localhost:8080
+Em seguida acesse http://localhost:8080
